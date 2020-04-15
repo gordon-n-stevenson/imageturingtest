@@ -1,0 +1,5 @@
+docopt
+pandas
+numpy
+vtk
+SimpleITK
